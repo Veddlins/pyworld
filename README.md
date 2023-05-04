@@ -1,4 +1,4 @@
-# pyworld.github.io
+# pyworld
 Pygame project, which generates a world randomly at each launch
 
 Used libs - 
