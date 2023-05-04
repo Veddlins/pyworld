@@ -112,7 +112,6 @@ def generate_tile(x, y, chunk_x, chunk_y):
 			return[1, 0]
 	else:
 		return[0, 0]
-	#return int(world_map[tile_x, tile_y][0]/255 > 0.5)
 
 class Chunk:
 	def __init__(self, x, y):
